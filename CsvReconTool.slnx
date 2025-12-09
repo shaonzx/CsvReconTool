@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="CsvReconTool.Core/CsvReconTool.Core.csproj" />
   <Project Path="CsvReconTool.Tests/CsvReconTool.Tests.csproj" Id="e3829da8-6780-429f-8161-c39cb7162216" />
   <Project Path="CsvReconTool/CsvReconTool.csproj" />
