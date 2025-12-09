@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsvReconTool": {
+      "commandName": "Project",
+      "commandLineArgs": "-a \"TestData/FolderA\" -b \"TestData/FolderB\" -f \"file-pair-matching.json\" -o \"Output\""
+    }
+  }
+}

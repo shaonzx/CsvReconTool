@@ -1,0 +1,5 @@
+CustomerId,FirstName,LastName,Email,Phone
+C001,John,Smith,john.smith@email.com,555-0101
+C002,Jane,Doe,jane.doe@email.com,555-0102
+C003,Bob,Johnson,bob.j@email.com,555-0103
+C004,Alice,Williams,alice.w@email.com,555-0104

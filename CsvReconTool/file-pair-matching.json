@@ -1,0 +1,34 @@
+{
+  "defaultMatchingRules": {
+    "matchingFields": [ "Id" ],
+    "caseSensitive": false,
+    "trim": true
+  },
+  "fileSpecificRules": {
+    "Orders": {
+      "matchingFields": [ "OrderId" ],
+      "caseSensitive": false,
+      "trim": true
+    },
+    "Invoices": {
+      "matchingFields": [ "InvoiceId" ],
+      "caseSensitive": false,
+      "trim": true
+    },
+    "Customers": {
+      "matchingFields": [ "FirstName", "LastName" ],
+      "caseSensitive": false,
+      "trim": true
+    },
+    "Products": {
+      "matchingFields": [ "ProductId" ],
+      "caseSensitive": false,
+      "trim": true
+    },
+    "Employees": {
+      "matchingFields": [ "EmployeeId" ],
+      "caseSensitive": false,
+      "trim": true
+    }
+  }
+}
